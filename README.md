@@ -1,6 +1,9 @@
 # Kimo
+
 Kimo is a bot with many features like meme , moderation , music , fun .
-# List of commands
+
+## List of commands
+
 !help - shows help command
 
 !meme - shows meme (not included in help command because of 2000 character limit)
